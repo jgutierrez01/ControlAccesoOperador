@@ -1,0 +1,18 @@
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\bin\Debug\RegistoAcceso-Operador.exe.config
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\bin\Debug\RegistoAcceso-Operador.exe.manifest
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\bin\Debug\RegistoAcceso-Operador.application
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\bin\Debug\RegistoAcceso-Operador.exe
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\bin\Debug\RegistoAcceso-Operador.pdb
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\obj\Debug\RegistoAcceso-Operador.csprojResolveAssemblyReference.cache
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\obj\Debug\RegistoAcceso_Operador.CapturaEntrada.resources
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\obj\Debug\RegistoAcceso_Operador.CapturaSalida.resources
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\obj\Debug\RegistoAcceso_Operador.Form1.resources
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\obj\Debug\RegistoAcceso_Operador.Properties.Resources.resources
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\obj\Debug\RegistoAcceso-Operador.csproj.GenerateResource.Cache
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\obj\Debug\RegistoAcceso-Operador.exe.manifest
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\obj\Debug\RegistoAcceso-Operador.application
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\obj\Debug\RegistoAcceso-Operador.exe
+C:\Users\Maftec09\Documents\Visual Studio 2015\Projects\RegistoAcceso-Operador\RegistoAcceso-Operador\obj\Debug\RegistoAcceso-Operador.pdb
+C:\Users\Fabian Gutierrez\Source\Repos\ControlAccesoOperador\RegistoAcceso-Operador\bin\Debug\RegistoAcceso-Operador.exe.config
+C:\Users\Fabian Gutierrez\Source\Repos\ControlAccesoOperador\RegistoAcceso-Operador\obj\Debug\RegistoAcceso-Operador.exe
+C:\Users\Fabian Gutierrez\Source\Repos\ControlAccesoOperador\RegistoAcceso-Operador\obj\Debug\RegistoAcceso-Operador.pdb
