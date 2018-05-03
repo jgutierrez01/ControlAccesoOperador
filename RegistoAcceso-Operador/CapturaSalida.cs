@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Windows.Forms;
@@ -7,7 +8,8 @@ namespace RegistoAcceso_Operador
 {
     public partial class CapturaSalida : Form
     {
-        SqlConnection conexion = new SqlConnection(Properties.Settings.Default.conexionproyectoid);
+        //SqlConnection conexion = new SqlConnection(Properties.Settings.Default.conexionproyectoid);
+        SqlConnection conexion = new SqlConnection(ConfigurationManager.ConnectionStrings["ConexionControlAcceso"].ConnectionString);
         public bool EsSalida = false;
         public CapturaSalida()
         {
