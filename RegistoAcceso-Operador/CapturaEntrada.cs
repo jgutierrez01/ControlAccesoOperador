@@ -99,7 +99,7 @@ namespace RegistoAcceso_Operador
                                             " FROM " +
                                                 " RegistroAccesoPersonas P " +
                                                 " INNER JOIN RegistroAccesoSteelgo RS ON RS.RegistroAccesoID = P.RegistroAccesoID AND RS.TieneSalida = 0 AND RS.Activo = 1 " +                                                
-                                                " INNER JOIN [IBIX].[IBIXLocal].dbo.tblDepto D ON D.Depto = RS.DepartamentoID AND D.Activo = 1 AND D.Emp = 1 AND D.Nombre <> '' " +
+                                                " INNER JOIN [IBIX].[IBIXLocal].dbo.tblDepto D ON D.Depto = RS.DepartamentoID AND D.Emp = 1 AND D.Nombre <> '' " +
                                             " WHERE " +
                                                 " P.Gafete = '" + txtGafete1.Text.Trim().ToUpper() + "' AND P.Salida = 0 AND P.Activo = 1 ";                            
                             SqlCommand cmd = new SqlCommand(query, conexion);
