@@ -48,7 +48,7 @@ namespace RegistoAcceso_Operador
                                     " AsignacionGafete A " +
                                     " INNER JOIN RegistroAccesoSteelgo RS ON RS.RegistroAccesoID = A.RegistroAccesoID AND RS.TieneSalida = 0 AND RS.Activo = 1 " +
                                     " INNER JOIN RegistroAccesoPersonas RP ON RP.RegistroPersonasID = A.RegistroPersonaID AND RP.Salida = 0 AND RP.Activo = 1 " +                                    
-                                    " INNER JOIN [IBIX].[IBIXLocal].dbo.tblDepto D ON D.Depto = RS.DepartamentoID AND D.Activo = 1 AND D.Emp = 1 AND D.Nombre <> '' " +
+                                    " INNER JOIN [IBIX].[IBIXLocal].dbo.tblDepto D ON D.Depto = RS.DepartamentoID AND D.Emp = 1 AND D.Nombre <> '' " +
                                 " WHERE " +
                                     " A.Gafete2 = '" + GafeteOperador.Trim().ToUpper() + "' AND A.TieneSalida = 0 AND A.Activo = 1";
                 SqlCommand cmd = new SqlCommand(query, conexion);
